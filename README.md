@@ -32,5 +32,5 @@ We reserve the right to remove, or not to add anything that we feel will not fit
 Also, this page is a community page, and the content you add may be changed later.
 
 
-<img src="https://img.shields.io/github/last-commit/cheef123/w3schools-test.github.io">
+<img src="https://img.shields.io/github/last-commit/cheef123/w3schools-test.github.io"> <img src="https://img.shields.io/github/repo-size/cheef123/w3schools-test.github.io">
 
